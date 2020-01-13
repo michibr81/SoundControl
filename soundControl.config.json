@@ -1,0 +1,41 @@
+{
+    "outputDevice":
+    {
+        "name":"Master",
+        "cardNumber":0      
+    },
+    "volume":
+    {
+
+        "louderPercentage":5,
+        "quieterPercentage":5
+    },
+    "streams":[
+        {
+            "activationWord":"B5",
+            "streamUrl":"http://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/56/stream.mp3"
+        },
+        {
+            "activationWord":"Sunshine",
+            "streamUrl":"https://stream.sunshine-live.de/techno/mp3-128/stream.sunshine-live.de/play.m3u"
+        },
+        {
+            "activationWord":"primavera",
+            "streamUrl":"http://mp3ad.radioprimavera.c.nmdn.net/ps-radioprimavera/livestream.mp3"
+        },
+        {
+            "activationWord":"Bayern 1",
+            "streamUrl":"http://streams.br.de/bayern1main_1.m3u"
+        },
+        {
+            "activationWord":"Bayern 3",
+            "streamUrl":"http://br-br3-live.cast.addradio.de/br/br3/live/mp3/56/stream.mp3"
+        },
+        {
+            "activationWord":"HR 3",
+            "streamUrl":"http://metafiles.gl-systemhaus.de/hr/hr3_2.m3u"
+        }
+    ],
+
+    "defaultStreamActivationWord":"Bayern 1"  
+}
