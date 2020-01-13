@@ -1,0 +1,4 @@
+Enable in production environment
+Implement tests
+Extend errorhandling
+implement pause-functionality
